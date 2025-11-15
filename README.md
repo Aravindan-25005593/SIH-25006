@@ -92,7 +92,7 @@ Our implementation will follow an Agile methodology, focusing on delivering a Mi
 
 **User Onboarding & Risk Assessment Flow:**
 
-![Uploading image.png…]()
+<img width="1024" height="1024" alt="Gemini_Generated_Image_ptuzr3ptuzr3ptuz" src="https://github.com/user-attachments/assets/e217324c-bfdc-407d-a019-2eac5561d7e8" />
 
 **Daily Biosecurity & Alert Flow:**
 <img width="1024" height="1024" alt="Gemini_Generated_Image_8768u08768u08768" src="https://github.com/user-attachments/assets/87fd11c6-116b-4e84-8766-78e6064f1ac5" />
